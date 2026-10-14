@@ -1,0 +1,2690 @@
+[
+  {
+    "id": "seoul",
+    "name": "서울",
+    "english": "Seoul",
+    "country": "대한민국",
+    "continent": "아시아",
+    "lat": 37.57,
+    "lng": 126.98,
+    "climate": "사계절, 덥고 습한 여름",
+    "cost": 28000000,
+    "scores": [55, 86, 58, 96, 93, 94],
+    "transport": "촘촘한 지하철과 버스",
+    "housing": "중간 부담 (예시)",
+    "advantages": [
+      "촘촘한 지하철과 버스",
+      "다양한 도시 생활을 탐구하기 좋은 사례"
+    ],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 55,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 86,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 58,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 96,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 93,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 94,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "busan",
+    "name": "부산",
+    "english": "Busan",
+    "country": "대한민국",
+    "continent": "아시아",
+    "lat": 35.18,
+    "lng": 129.08,
+    "climate": "온화한 해양 영향",
+    "cost": 22000000,
+    "scores": [70, 85, 80, 82, 80, 85],
+    "transport": "지하철과 버스, 언덕 지역 이동 차이",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": [
+      "지하철과 버스, 언덕 지역 이동 차이",
+      "자연과 휴식 공간을 탐구하기 좋은 사례"
+    ],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 70,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 85,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 80,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 82,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 80,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 85,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "tokyo",
+    "name": "도쿄",
+    "english": "Tokyo",
+    "country": "일본",
+    "continent": "아시아",
+    "lat": 35.68,
+    "lng": 139.69,
+    "climate": "습한 여름과 비교적 온화한 겨울",
+    "cost": 32000000,
+    "scores": [45, 94, 57, 98, 96, 96],
+    "transport": "광역 철도와 지하철",
+    "housing": "중간 부담 (예시)",
+    "advantages": [
+      "광역 철도와 지하철",
+      "다양한 도시 생활을 탐구하기 좋은 사례"
+    ],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "예시 시나리오에서 생활비 부담이 큰 편이에요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 45,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 94,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 57,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 98,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 96,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 96,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "fukuoka",
+    "name": "후쿠오카",
+    "english": "Fukuoka",
+    "country": "일본",
+    "continent": "아시아",
+    "lat": 33.59,
+    "lng": 130.4,
+    "climate": "온난하고 습한 기후",
+    "cost": 21000000,
+    "scores": [75, 92, 72, 82, 77, 85],
+    "transport": "도심 지하철과 버스",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": [
+      "도심 지하철과 버스",
+      "다양한 도시 생활을 탐구하기 좋은 사례"
+    ],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 75,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 92,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 72,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 82,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 77,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 85,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "taipei",
+    "name": "타이베이",
+    "english": "Taipei",
+    "country": "대만",
+    "continent": "아시아",
+    "lat": 25.03,
+    "lng": 121.57,
+    "climate": "아열대, 비가 많은 기후",
+    "cost": 24000000,
+    "scores": [65, 90, 73, 90, 85, 90],
+    "transport": "지하철과 버스",
+    "housing": "중간 부담 (예시)",
+    "advantages": ["지하철과 버스", "다양한 도시 생활을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 65,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 90,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 73,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 90,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 85,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 90,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "singapore",
+    "name": "싱가포르",
+    "english": "Singapore",
+    "country": "싱가포르",
+    "continent": "아시아",
+    "lat": 1.35,
+    "lng": 103.82,
+    "climate": "연중 고온다습한 열대",
+    "cost": 42000000,
+    "scores": [25, 96, 68, 94, 86, 96],
+    "transport": "MRT와 버스",
+    "housing": "높은 부담 (예시)",
+    "advantages": ["MRT와 버스", "다양한 도시 생활을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "예시 시나리오에서 생활비 부담이 큰 편이에요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 25,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 96,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 68,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 94,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 86,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 96,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "chiang-mai",
+    "name": "치앙마이",
+    "english": "Chiang Mai",
+    "country": "태국",
+    "continent": "아시아",
+    "lat": 18.79,
+    "lng": 98.99,
+    "climate": "열대 계절풍, 건기 연무 주의",
+    "cost": 14000000,
+    "scores": [94, 67, 63, 42, 78, 62],
+    "transport": "버스와 공유 차량, 이동수단 선택 필요",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": [
+      "버스와 공유 차량, 이동수단 선택 필요",
+      "다양한 도시 생활을 탐구하기 좋은 사례"
+    ],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 94,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 67,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 63,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 42,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 78,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 62,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "kuala-lumpur",
+    "name": "쿠알라룸푸르",
+    "english": "Kuala Lumpur",
+    "country": "말레이시아",
+    "continent": "아시아",
+    "lat": 3.14,
+    "lng": 101.69,
+    "climate": "연중 고온다습",
+    "cost": 18000000,
+    "scores": [85, 68, 61, 72, 86, 79],
+    "transport": "철도와 버스, 지역별 차이",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": [
+      "철도와 버스, 지역별 차이",
+      "다양한 도시 생활을 탐구하기 좋은 사례"
+    ],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 85,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 68,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 61,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 72,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 86,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 79,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "vienna",
+    "name": "빈",
+    "english": "Vienna",
+    "country": "오스트리아",
+    "continent": "유럽",
+    "lat": 48.21,
+    "lng": 16.37,
+    "climate": "온대, 추운 겨울",
+    "cost": 30000000,
+    "scores": [52, 94, 84, 95, 93, 95],
+    "transport": "트램과 지하철",
+    "housing": "중간 부담 (예시)",
+    "advantages": ["트램과 지하철", "자연과 휴식 공간을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "예시 시나리오에서 생활비 부담이 큰 편이에요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 52,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 94,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 84,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 95,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 93,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 95,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "copenhagen",
+    "name": "코펜하겐",
+    "english": "Copenhagen",
+    "country": "덴마크",
+    "continent": "유럽",
+    "lat": 55.68,
+    "lng": 12.57,
+    "climate": "서늘한 해양성 기후",
+    "cost": 40000000,
+    "scores": [30, 95, 83, 93, 89, 96],
+    "transport": "자전거와 지하철",
+    "housing": "높은 부담 (예시)",
+    "advantages": ["자전거와 지하철", "자연과 휴식 공간을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "예시 시나리오에서 생활비 부담이 큰 편이에요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 30,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 95,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 83,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 93,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 89,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 96,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "lisbon",
+    "name": "리스본",
+    "english": "Lisbon",
+    "country": "포르투갈",
+    "continent": "유럽",
+    "lat": 38.72,
+    "lng": -9.14,
+    "climate": "온화한 겨울, 건조한 여름",
+    "cost": 23000000,
+    "scores": [70, 85, 80, 78, 88, 80],
+    "transport": "지하철과 트램, 언덕 지형",
+    "housing": "중간 부담 (예시)",
+    "advantages": [
+      "지하철과 트램, 언덕 지형",
+      "자연과 휴식 공간을 탐구하기 좋은 사례"
+    ],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 70,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 85,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 80,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 78,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 88,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 80,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "porto",
+    "name": "포르투",
+    "english": "Porto",
+    "country": "포르투갈",
+    "continent": "유럽",
+    "lat": 41.16,
+    "lng": -8.63,
+    "climate": "대서양 영향, 겨울 강수",
+    "cost": 20000000,
+    "scores": [80, 86, 79, 73, 81, 77],
+    "transport": "경전철과 버스",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": ["경전철과 버스", "다양한 도시 생활을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 80,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 86,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 79,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 73,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 81,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 77,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "amsterdam",
+    "name": "암스테르담",
+    "english": "Amsterdam",
+    "country": "네덜란드",
+    "continent": "유럽",
+    "lat": 52.37,
+    "lng": 4.9,
+    "climate": "서늘하고 비가 잦은 해양성",
+    "cost": 39000000,
+    "scores": [32, 88, 71, 94, 95, 93],
+    "transport": "자전거와 트램",
+    "housing": "높은 부담 (예시)",
+    "advantages": ["자전거와 트램", "다양한 도시 생활을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "예시 시나리오에서 생활비 부담이 큰 편이에요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 32,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 88,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 71,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 94,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 95,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 93,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "helsinki",
+    "name": "헬싱키",
+    "english": "Helsinki",
+    "country": "핀란드",
+    "continent": "유럽",
+    "lat": 60.17,
+    "lng": 24.94,
+    "climate": "길고 추운 겨울",
+    "cost": 33000000,
+    "scores": [45, 96, 91, 87, 79, 96],
+    "transport": "트램과 지하철",
+    "housing": "중간 부담 (예시)",
+    "advantages": ["트램과 지하철", "자연과 휴식 공간을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "예시 시나리오에서 생활비 부담이 큰 편이에요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 45,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 96,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 91,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 87,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 79,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 96,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "freiburg",
+    "name": "프라이부르크",
+    "english": "Freiburg",
+    "country": "독일",
+    "continent": "유럽",
+    "lat": 48,
+    "lng": 7.85,
+    "climate": "온대, 산지 인접",
+    "cost": 26000000,
+    "scores": [63, 92, 95, 86, 72, 88],
+    "transport": "트램과 자전거",
+    "housing": "중간 부담 (예시)",
+    "advantages": ["트램과 자전거", "자연과 휴식 공간을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 63,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 92,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 95,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 86,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 72,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 88,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "barcelona",
+    "name": "바르셀로나",
+    "english": "Barcelona",
+    "country": "스페인",
+    "continent": "유럽",
+    "lat": 41.39,
+    "lng": 2.17,
+    "climate": "지중해성, 건조한 여름",
+    "cost": 27000000,
+    "scores": [60, 70, 78, 91, 98, 86],
+    "transport": "지하철과 버스",
+    "housing": "중간 부담 (예시)",
+    "advantages": ["지하철과 버스", "다양한 도시 생활을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 60,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 70,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 78,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 91,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 98,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 86,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "vancouver",
+    "name": "밴쿠버",
+    "english": "Vancouver",
+    "country": "캐나다",
+    "continent": "북아메리카",
+    "lat": 49.28,
+    "lng": -123.12,
+    "climate": "온화하지만 겨울에 비가 잦음",
+    "cost": 41000000,
+    "scores": [27, 86, 98, 84, 86, 89],
+    "transport": "스카이트레인과 버스",
+    "housing": "높은 부담 (예시)",
+    "advantages": [
+      "스카이트레인과 버스",
+      "자연과 휴식 공간을 탐구하기 좋은 사례"
+    ],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "예시 시나리오에서 생활비 부담이 큰 편이에요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 27,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 86,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 98,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 84,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 86,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 89,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "montreal",
+    "name": "몬트리올",
+    "english": "Montreal",
+    "country": "캐나다",
+    "continent": "북아메리카",
+    "lat": 45.5,
+    "lng": -73.57,
+    "climate": "추운 겨울과 따뜻한 여름",
+    "cost": 27000000,
+    "scores": [63, 87, 77, 86, 93, 89],
+    "transport": "지하철과 버스",
+    "housing": "중간 부담 (예시)",
+    "advantages": ["지하철과 버스", "다양한 도시 생활을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 63,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 87,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 77,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 86,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 93,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 89,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "new-york",
+    "name": "뉴욕",
+    "english": "New York",
+    "country": "미국",
+    "continent": "북아메리카",
+    "lat": 40.71,
+    "lng": -74.01,
+    "climate": "사계절, 더운 여름과 추운 겨울",
+    "cost": 52000000,
+    "scores": [12, 65, 51, 95, 100, 90],
+    "transport": "광역 지하철과 버스",
+    "housing": "높은 부담 (예시)",
+    "advantages": [
+      "광역 지하철과 버스",
+      "다양한 도시 생활을 탐구하기 좋은 사례"
+    ],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "예시 시나리오에서 생활비 부담이 큰 편이에요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 12,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 65,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 51,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 95,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 100,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 90,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "portland",
+    "name": "포틀랜드",
+    "english": "Portland",
+    "country": "미국",
+    "continent": "북아메리카",
+    "lat": 45.52,
+    "lng": -122.68,
+    "climate": "겨울 강수, 건조한 여름",
+    "cost": 33000000,
+    "scores": [46, 69, 91, 79, 87, 82],
+    "transport": "경전철과 자전거",
+    "housing": "중간 부담 (예시)",
+    "advantages": ["경전철과 자전거", "자연과 휴식 공간을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "예시 시나리오에서 생활비 부담이 큰 편이에요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 46,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 69,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 91,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 79,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 87,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 82,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "mexico-city",
+    "name": "멕시코시티",
+    "english": "Mexico City",
+    "country": "멕시코",
+    "continent": "북아메리카",
+    "lat": 19.43,
+    "lng": -99.13,
+    "climate": "고지대, 온화한 기온",
+    "cost": 18000000,
+    "scores": [85, 45, 54, 84, 97, 73],
+    "transport": "지하철과 간선 버스",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": [
+      "지하철과 간선 버스",
+      "다양한 도시 생활을 탐구하기 좋은 사례"
+    ],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 85,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 45,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 54,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 84,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 97,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 73,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "quebec-city",
+    "name": "퀘벡시티",
+    "english": "Quebec City",
+    "country": "캐나다",
+    "continent": "북아메리카",
+    "lat": 46.81,
+    "lng": -71.21,
+    "climate": "추운 겨울, 계절 변화 큼",
+    "cost": 23000000,
+    "scores": [70, 95, 87, 60, 75, 85],
+    "transport": "버스 중심",
+    "housing": "중간 부담 (예시)",
+    "advantages": ["버스 중심", "자연과 휴식 공간을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 70,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 95,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 87,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 60,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 75,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 85,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "montevideo",
+    "name": "몬테비데오",
+    "english": "Montevideo",
+    "country": "우루과이",
+    "continent": "남아메리카",
+    "lat": -34.9,
+    "lng": -56.16,
+    "climate": "온대, 해안의 영향",
+    "cost": 22000000,
+    "scores": [71, 72, 79, 65, 78, 74],
+    "transport": "버스 중심",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": ["버스 중심", "다양한 도시 생활을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 71,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 72,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 79,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 65,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 78,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 74,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "santiago",
+    "name": "산티아고",
+    "english": "Santiago",
+    "country": "칠레",
+    "continent": "남아메리카",
+    "lat": -33.45,
+    "lng": -70.67,
+    "climate": "건조한 여름, 겨울 강수",
+    "cost": 20000000,
+    "scores": [77, 62, 68, 85, 86, 78],
+    "transport": "지하철과 버스",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": ["지하철과 버스", "다양한 도시 생활을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 77,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 62,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 68,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 85,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 86,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 78,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "buenos-aires",
+    "name": "부에노스아이레스",
+    "english": "Buenos Aires",
+    "country": "아르헨티나",
+    "continent": "남아메리카",
+    "lat": -34.6,
+    "lng": -58.38,
+    "climate": "온대, 습한 여름",
+    "cost": 19000000,
+    "scores": [82, 59, 65, 83, 98, 78],
+    "transport": "지하철과 버스",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": ["지하철과 버스", "다양한 도시 생활을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 82,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 59,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 65,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 83,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 98,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 78,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "curitiba",
+    "name": "쿠리치바",
+    "english": "Curitiba",
+    "country": "브라질",
+    "continent": "남아메리카",
+    "lat": -25.43,
+    "lng": -49.27,
+    "climate": "고지대의 온화한 기후",
+    "cost": 17000000,
+    "scores": [87, 60, 86, 82, 72, 72],
+    "transport": "간선급행버스 중심",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": [
+      "간선급행버스 중심",
+      "자연과 휴식 공간을 탐구하기 좋은 사례"
+    ],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 87,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 60,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 86,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 82,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 72,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 72,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "cape-town",
+    "name": "케이프타운",
+    "english": "Cape Town",
+    "country": "남아프리카공화국",
+    "continent": "아프리카",
+    "lat": -33.92,
+    "lng": 18.42,
+    "climate": "지중해성, 겨울 강수",
+    "cost": 21000000,
+    "scores": [73, 36, 97, 48, 89, 64],
+    "transport": "버스와 차량, 지역별 접근성 차이",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": [
+      "버스와 차량, 지역별 접근성 차이",
+      "자연과 휴식 공간을 탐구하기 좋은 사례"
+    ],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 73,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 36,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 97,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 48,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 89,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 64,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "kigali",
+    "name": "키갈리",
+    "english": "Kigali",
+    "country": "르완다",
+    "continent": "아프리카",
+    "lat": -1.94,
+    "lng": 30.06,
+    "climate": "고지대 열대, 우기와 건기",
+    "cost": 15000000,
+    "scores": [92, 78, 80, 48, 57, 48],
+    "transport": "버스 중심",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": ["버스 중심", "자연과 휴식 공간을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 92,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 78,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 80,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 48,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 57,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 48,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "rabat",
+    "name": "라바트",
+    "english": "Rabat",
+    "country": "모로코",
+    "continent": "아프리카",
+    "lat": 34.02,
+    "lng": -6.84,
+    "climate": "온화한 해안성 기후",
+    "cost": 16000000,
+    "scores": [90, 71, 73, 70, 76, 61],
+    "transport": "트램과 버스",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": ["트램과 버스", "다양한 도시 생활을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 90,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 71,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 73,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 70,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 76,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 61,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "tunis",
+    "name": "튀니스",
+    "english": "Tunis",
+    "country": "튀니지",
+    "continent": "아프리카",
+    "lat": 36.81,
+    "lng": 10.18,
+    "climate": "지중해성, 건조한 여름",
+    "cost": 14000000,
+    "scores": [95, 61, 67, 65, 79, 63],
+    "transport": "경전철과 버스",
+    "housing": "상대적으로 낮은 부담 (예시)",
+    "advantages": ["경전철과 버스", "다양한 도시 생활을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 95,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 61,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 67,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 65,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 79,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 63,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "melbourne",
+    "name": "멜버른",
+    "english": "Melbourne",
+    "country": "오스트레일리아",
+    "continent": "오세아니아",
+    "lat": -37.81,
+    "lng": 144.96,
+    "climate": "온대, 날씨 변화가 잦음",
+    "cost": 37000000,
+    "scores": [37, 88, 83, 89, 97, 94],
+    "transport": "트램과 철도",
+    "housing": "높은 부담 (예시)",
+    "advantages": ["트램과 철도", "자연과 휴식 공간을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "예시 시나리오에서 생활비 부담이 큰 편이에요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 37,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 88,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 83,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 89,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 97,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 94,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "wellington",
+    "name": "웰링턴",
+    "english": "Wellington",
+    "country": "뉴질랜드",
+    "continent": "오세아니아",
+    "lat": -41.29,
+    "lng": 174.78,
+    "climate": "서늘한 해양성, 강한 바람",
+    "cost": 32000000,
+    "scores": [49, 93, 94, 75, 80, 90],
+    "transport": "버스와 교외 철도",
+    "housing": "중간 부담 (예시)",
+    "advantages": ["버스와 교외 철도", "자연과 휴식 공간을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "예시 시나리오에서 생활비 부담이 큰 편이에요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 49,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 93,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 94,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 75,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 80,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 90,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "adelaide",
+    "name": "애들레이드",
+    "english": "Adelaide",
+    "country": "오스트레일리아",
+    "continent": "오세아니아",
+    "lat": -34.93,
+    "lng": 138.6,
+    "climate": "건조한 여름, 온화한 겨울",
+    "cost": 29000000,
+    "scores": [58, 91, 88, 73, 79, 89],
+    "transport": "버스와 트램",
+    "housing": "중간 부담 (예시)",
+    "advantages": ["버스와 트램", "자연과 휴식 공간을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 58,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 91,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 88,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 73,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 79,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 89,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  },
+  {
+    "id": "christchurch",
+    "name": "크라이스트처치",
+    "english": "Christchurch",
+    "country": "뉴질랜드",
+    "continent": "오세아니아",
+    "lat": -43.53,
+    "lng": 172.64,
+    "climate": "온대, 비교적 서늘함",
+    "cost": 28000000,
+    "scores": [61, 90, 96, 64, 69, 86],
+    "transport": "버스와 자전거",
+    "housing": "중간 부담 (예시)",
+    "advantages": ["버스와 자전거", "자연과 휴식 공간을 탐구하기 좋은 사례"],
+    "disadvantages": [
+      "주거 위치에 따라 비용과 서비스 접근성이 달라질 수 있어요.",
+      "언어, 취업 자격과 실제 소득은 별도로 확인해야 해요."
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "imageSource": "Unsplash · 공통 도시·자연 분위기 이미지 (해당 도시의 실제 사진 아님)",
+    "dataNote": "교육용 예시 평가 · 실제 통계 아님 · 비용 KRW/년 · 2026 가상 시나리오",
+    "statistics": [],
+    "costMetadata": {
+      "kind": "illustrative",
+      "unit": "KRW/year",
+      "scenarioYear": 2026,
+      "includesHousing": true,
+      "source": "City Liveability 교육용 가상 시나리오"
+    },
+    "ratingMetadata": [
+      {
+        "score": 61,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "생활비와 주거비의 경제적 부담을 가정한 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 90,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "치안과 사회 안정의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 96,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "녹지·자연 접근성과 대기환경의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 64,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "대중교통과 접근성의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 69,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "문화시설·여가·활력의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      },
+      {
+        "score": 86,
+        "kind": "illustrative",
+        "scenarioYear": 2026,
+        "basis": "의료·교육·공공서비스의 교육용 종합 예시",
+        "source": "교육용 개발 예시 · 관측 통계 아님"
+      }
+    ]
+  }
+]
