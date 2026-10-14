@@ -132,7 +132,7 @@ npm run test:e2e
 
 ## GitHub에 반영하기
 
-현재 작업 폴더는 기존 `mingumangu21/City-Liveability` 저장소입니다. 원격 저장소에 자동으로 커밋하거나 푸시하지 않았습니다. 아래 명령은 파일을 확인한 뒤 직접 실행할 수 있습니다.
+현재 작업 폴더는 기존 `mingumangu21/City-Liveability` 저장소입니다. 사용자의 요청에 따라 최초 MVP를 GitHub의 `main` 브랜치에 반영했습니다. 아래 명령은 첫 반영 과정을 설명하는 참고용입니다. 현재 코드를 올리기 위해 다시 실행할 필요는 없습니다.
 
 ```bash
 cd /workspace/City-Liveability
@@ -153,4 +153,4 @@ git push -u origin main
 4. Node.js 22 이상을 선택하고 Deploy를 실행합니다. 환경변수나 API 키는 필요 없습니다.
 5. 배포된 주소에서 설문 전체 흐름, 모바일 화면, 사진 로딩, 다운로드·공유를 확인하세요. 공유 기능과 클립보드는 HTTPS 또는 localhost 등 지원 환경이 필요합니다.
 
-현재 URL 경로 기반 라우팅을 쓰지 않아 별도 SPA rewrite 설정은 필요 없습니다. 실제 Vercel 배포는 이번 작업에서 실행하지 않았습니다.
+현재 URL 경로 기반 라우팅을 쓰지 않아 별도 SPA rewrite 설정은 필요 없습니다. GitHub 반영은 완료했고 실제 Vercel 배포는 아직 완료되지 않았습니다. 이 클라우드에서는 Vercel 접속이 네트워크 정책에서 차단되었으며 계정 인증도 연결되어 있지 않습니다. 가장 간단한 방법은 [Vercel 프로젝트 만들기](https://vercel.com/new)를 열어 GitHub로 로그인하고 `City-Liveability` 저장소를 Import한 뒤 Deploy를 누르는 것입니다.
